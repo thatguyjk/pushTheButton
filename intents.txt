@@ -1,0 +1,27 @@
+Intent Schema
+--------------
+
+{
+  "intents": [
+    {
+      "intent": "GetTheSide"
+    }
+  ]
+}
+
+
+
+
+
+
+
+Sample Utterances
+-----------------
+
+GetTheSide who has the button
+GetTheSide what button is active
+GetTheSide what side has the button
+GetTheSide which side is active
+GetTheSide which side has the button
+GetTheSide which team owns the button
+GetTheSide which team is active

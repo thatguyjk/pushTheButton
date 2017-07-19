@@ -1,0 +1,15 @@
+{
+  "name": "getTheButton",
+  "version": "1.0.0",
+  "description": "Push the button info service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jonathan Kelly",
+  "license": "ISC",
+  "dependencies": {
+    "alexa-sdk": "^1.0.5",
+    "firebase": "^3.3.0"
+  }
+}
