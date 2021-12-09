@@ -3,7 +3,7 @@
 var Alexa = require("alexa-sdk");
 var firebase = require("firebase");
 
-var appId = '     ';
+var appId = process.env.apiID;
 
 var config = {
   apiKey: " ",
